@@ -3,6 +3,10 @@
   padding:0;
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
+  background-image:url(./assets/image.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&display=swap');
 
